@@ -9,5 +9,13 @@ public class mergeTest {
 	     A B C D E F G
 		
 	}
+	
+	@Test
+	public void test5() {
+		
+		Number :
+			
+			1 2 3 4 5 6 
+	}
 
 }

@@ -6,7 +6,7 @@ public class mergeTest {
 	public void test4() {
 		
 		Alphabetic:
-	     A B C D E
+	     A B C D E F G
 		
 	}
 
